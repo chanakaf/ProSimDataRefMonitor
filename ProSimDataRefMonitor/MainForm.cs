@@ -111,6 +111,7 @@ namespace ProSimDataRefMonitor
 			btnStop.Enabled = false;
 			btnDisconnect.Enabled = false;
 			lblStatus.Text = "Disconnected";
+			lblStatus.ForeColor = System.Drawing.Color.Red;
 		}
 
 		private void btnAdd_Click(object sender, EventArgs e)
