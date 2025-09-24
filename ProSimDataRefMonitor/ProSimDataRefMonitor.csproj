@@ -9,8 +9,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="ProSimSDK">
-      <HintPath>..\..\Prosim SDK\lib\ProSimSDK.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>ProSimSDK.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>
