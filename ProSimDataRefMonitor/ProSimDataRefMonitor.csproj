@@ -12,4 +12,9 @@
       <HintPath>ProSimSDK.dll</HintPath>
     </Reference>
   </ItemGroup>
+  <ItemGroup>
+    <None Update="ProSim Data Monitor EXE\ProSimDataRefMonitor.pdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
 </Project>
