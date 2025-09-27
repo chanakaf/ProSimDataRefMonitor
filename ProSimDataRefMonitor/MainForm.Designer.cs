@@ -195,7 +195,7 @@ namespace ProSimDataRefMonitor
 			this.btnDisconnect.Location = new System.Drawing.Point(647, 13);
 			this.btnDisconnect.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
 			this.btnDisconnect.Name = "btnDisconnect";
-			this.btnDisconnect.Size = new System.Drawing.Size(99, 32);
+			this.btnDisconnect.Size = new System.Drawing.Size(106, 32);
 			this.btnDisconnect.TabIndex = 7;
 			this.btnDisconnect.Text = "Disconnect";
 			this.btnDisconnect.UseVisualStyleBackColor = true;
